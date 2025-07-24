@@ -1,0 +1,25 @@
+# Ignore folders
+.vs/
+bin/
+obj/
+TestResults/
+packages/
+*.user
+*.suo
+
+# Build results
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+
+# Others
+*.ncb
+*.aps
+*.dbmdl
+*.bak
+*.tmp
+
+# Visual Studio Code workspace
+.vscode/
