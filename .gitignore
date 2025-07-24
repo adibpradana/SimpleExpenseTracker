@@ -310,6 +310,12 @@ node_modules/
 # Visual Studio 6 auto-generated workspace file (contains which files were open etc.)
 *.vbw
 
+<<<<<<< HEAD
+=======
+# Visual Studio 6 auto-generated project file (contains which files were open etc.)
+*.vbp
+
+>>>>>>> 2d858b5dc7c4d5b63d179afbf64a9ae48a5e7d31
 # Visual Studio 6 workspace and project file (working project files containing files to include in project)
 *.dsw
 *.dsp
